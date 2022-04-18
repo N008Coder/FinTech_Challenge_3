@@ -12,3 +12,14 @@ Then, we use the intra-day prices to calculate out a series of data where we see
 Since we don't know what the exact trading fee would be, we calculate potential profit on these trades given no trading fees
 
 Lastly, we map out these profits as a box and line plot for a single day in each of the early, middle, and late sections of the given data.
+
+
+Technologies
+Python 3.7.11 pandas 1.3.4, mathplotlib 0.1.2, CSV
+
+Installation Guide
+Make sure you have the dependencies installed
+
+Contributors
+Berkeley FinTech Extension Course for the starer code https://bootcamp.berkeley.edu/fintech/
+Gabriel Paganin filled in the gaps gpaganin@berkeley.edu www.linkedin.com/in/gabriel-paganin
